@@ -1,0 +1,8 @@
+num_variables	32
+num_records	49
+solver	dc
+num_retained	32
+do_normalize	0
+do_bootstrap	1
+num_bootstraps	100
+bootstrap_seed	1
